@@ -59,3 +59,51 @@
 ![Dart](https://img.shields.io/badge/DART-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GITHUB_ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
+
+## 🚀 GitHub Analytics Dashboard
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitkumarrao&theme=react-dark" alt="GitHub Activity Graph" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankitkumarrao&theme=2077" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ankitkumarrao&theme=2077" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankitkumarrao&theme=2077" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ankitkumarrao&theme=2077&utcOffset=5.5" width="48%" />
+</p>
+
+---
+
+## 🧘 Coding Mode ON
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="Coding Mode" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/ankitkumarrao" alt="Ankit's Contribution Graph" width="100%" />
+</p>
+
+---
+
+## 🧩 Problem Solving
+
+### LeetCode Stats
+<p align="left">
+  <img src="https://leetcode-stats-card.vercel.app/iankitkumarrao?theme=dark" alt="LeetCode Stats" />
+</p>
+
+### GeeksforGeeks Stats
+<p align="left">
+  <img src="https://geeksforgeeks-stats-api.vercel.app/ankitkumarrao" alt="GeeksforGeeks Stats" />
+</p>
