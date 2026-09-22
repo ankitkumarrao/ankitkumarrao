@@ -1,7 +1,7 @@
 <h1 align="center">Hi, Ankit this side! 👋</h1>
 
 <p align="center">
-  Aspiring Data Scientist | ML & DL Enthusiast | Software Developer 🚀
+  Aspiring Data Scientist | ML & DL Enthusiast | AI Security Learner 🚀
 </p>
 
 <p align="center">
@@ -14,9 +14,11 @@
 ## 🧑‍💻 About Me
 
 - 🧙 **Computer Science & Data Science** student passionate about ML systems and software engineering
+- 🛡️ Completed **TryHackMe SEC0 Certification**
+- 🤖 Currently diving deep into **AI Security** & defensive ML techniques
 - 💼 Experienced in **Machine Learning, Deep Learning, & Python Development**
 - 🌱 Exploring **Model Quantization, ML Systems (MLSys), & Software Architecture**
-- ⚡ **Fun fact:** Tech enthusiast who loves building games, tools, and exploring open-source tech
+- ⚡ **Fun fact:** Tech enthusiast who loves building tools, games, and exploring open-source tech
 
 ---
 
@@ -28,6 +30,11 @@
     <img src="https://skillicons.dev/icons?i=python,cpp,c,pytorch,tensorflow,flutter,dart,git,github,vscode" />
   </a>
 </p>
+
+### 🛡️ Security & AI Security
+![TryHackMe](https://img.shields.io/badge/TRYHACKME_SEC0-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+![AI Security](https://img.shields.io/badge/AI_SECURITY-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/CYBERSECURITY-00599C?style=for-the-badge&logo=shield&logoColor=white)
 
 ### 📌 Data Science & Machine Learning
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -43,19 +50,4 @@
 ![Flutter](https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/DART-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GITHUB_ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)## Hi there 👋
-
-<!--
-**ankitkumarrao/ankitkumarrao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Actions](https://img.shields.io/badge/GITHUB_ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
